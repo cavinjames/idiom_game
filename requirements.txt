@@ -1,2 +1,2 @@
 requests>=2.28.0
-apscheduler>=3.10.1
+apscheduler>=3.9.1
